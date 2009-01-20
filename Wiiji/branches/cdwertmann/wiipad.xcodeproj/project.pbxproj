@@ -69,7 +69,7 @@
 		B23A19DA0DB77E5400E28F9C /* wiimote_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wiimote_types.h; sourceTree = "<group>"; };
 		B24A54C00DA7A2D7002DEAC4 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = /System/Library/Frameworks/IOKit.framework; sourceTree = "<absolute>"; };
 		B24C5B9B0DAB16AF00E65D6A /* appicon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = appicon.icns; path = Art/appicon.icns; sourceTree = "<group>"; };
-		B24CE9B00DBB264D007C34A8 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image.png; path = ../dst/image.png; sourceTree = SOURCE_ROOT; };
+		B24CE9B00DBB264D007C34A8 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image.png; path = dst/dstResources/image.png; sourceTree = "<group>"; };
 		B26B65F80DA90E3700BD58B4 /* wiijoy_icon_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wiijoy_icon_12.png; path = Art/wiijoy_icon_12.png; sourceTree = "<group>"; };
 		B26B66160DA91D8A00BD58B4 /* help-scanning.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "help-scanning.png"; path = "Art/help-scanning.png"; sourceTree = "<group>"; };
 		B26B66170DA91D8A00BD58B4 /* help-rescan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "help-rescan.png"; path = "Art/help-rescan.png"; sourceTree = "<group>"; };
@@ -360,7 +360,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.4;
 				PREBINDING = NO;
-				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
 			};
 			name = Debug;
 		};
@@ -376,7 +376,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.4;
 				PREBINDING = NO;
-				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
 			};
 			name = Release;
 		};

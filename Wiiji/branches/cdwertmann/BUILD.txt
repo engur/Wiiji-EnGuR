@@ -1,0 +1,7 @@
+How to build Wiiji:
+
+1. Open the WiiRemoteFramework xcode project in the WiiRemoteFramework folder
+2. Make a release build
+3. Open the wiipad xcode project in this folder
+4. Build & run!
+

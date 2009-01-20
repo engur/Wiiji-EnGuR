@@ -12,7 +12,7 @@
 #import <IOBluetooth/objc/IOBluetoothDevice.h>
 #import <IOBluetooth/objc/IOBluetoothL2CAPChannel.h>
 
-#include <wiimote_types.h>
+#include "../wiimote_types.h"
 
 // useful logging macros
 #ifndef NSLogDebug

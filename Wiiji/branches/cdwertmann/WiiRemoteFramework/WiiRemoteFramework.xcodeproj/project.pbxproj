@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A67374B0F261452005960B0 /* wiimote_types.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A67374A0F261452005960B0 /* wiimote_types.h */; };
 		47C19F250CF39C59007D77CC /* Mii.h in Headers */ = {isa = PBXBuildFile; fileRef = 47C19F240CF39C59007D77CC /* Mii.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		53144A870B30492D00757188 /* COPYRIGHT.txt in Resources */ = {isa = PBXBuildFile; fileRef = 53144A860B30492D00757188 /* COPYRIGHT.txt */; };
 		53144A8C0B30495700757188 /* HISTORY.txt in Resources */ = {isa = PBXBuildFile; fileRef = 53144A8B0B30495700757188 /* HISTORY.txt */; };
@@ -27,7 +26,6 @@
 		089C1667FE841158C02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		32DBCF5E0370ADEE00C91783 /* WiiRemoteFramework_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WiiRemoteFramework_Prefix.pch; sourceTree = "<group>"; };
-		3A67374A0F261452005960B0 /* wiimote_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wiimote_types.h; sourceTree = "<group>"; };
 		47C19F240CF39C59007D77CC /* Mii.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mii.h; sourceTree = SOURCE_ROOT; };
 		53144A860B30492D00757188 /* COPYRIGHT.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = COPYRIGHT.txt; sourceTree = "<group>"; };
 		53144A8B0B30495700757188 /* HISTORY.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HISTORY.txt; sourceTree = "<group>"; };
@@ -97,7 +95,6 @@
 		08FB77AEFE84172EC02AAC07 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				3A67374A0F261452005960B0 /* wiimote_types.h */,
 				47C19F240CF39C59007D77CC /* Mii.h */,
 				5351D50B0B2D34DA00F86B96 /* WiiRemote.h */,
 				5351D50C0B2D34DA00F86B96 /* WiiRemote.m */,
@@ -155,7 +152,6 @@
 				5351D5110B2D34DA00F86B96 /* WiiRemoteDiscovery.h in Headers */,
 				53A1C0E70B9D85E800AEE7A2 /* WiiRemotePrivate.h in Headers */,
 				47C19F250CF39C59007D77CC /* Mii.h in Headers */,
-				3A67374B0F261452005960B0 /* wiimote_types.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,7 +301,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
 			};
 			name = Debug;
 		};
@@ -316,7 +312,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+				SDKROOT = /Developer/SDKs/MacOSX10.5.sdk;
 			};
 			name = Release;
 		};
