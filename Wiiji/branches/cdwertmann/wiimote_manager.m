@@ -545,12 +545,9 @@ int bindings[maxNumWiimotes][WiiNumberOfButtons] = {
 		if (_isVirtualHIDOpen) {
 			if (type >= WiiClassicControllerYButton) // lets overlap the classic conroller with the wiimote/nunchuck buttons
 				type -= WiiClassicControllerYButton;
-			
 			// the balance board button is mapped to the first joystick button
-			if ([_wiimote[cID] expansionPortType] == WiiBalanceBoard){
+			if ([_wiimote[cID] expansionPortType] == WiiBalanceBoard)
 				type = WiiRemoteOneButton;
-			}
-			
 			properties[0] = type;
 			properties[1] = isPressed;
 			CFDataRef request = CFDataCreateWithBytesNoCopy(NULL, properties, 3, kCFAllocatorNull);
@@ -586,14 +583,13 @@ int bindings[maxNumWiimotes][WiiNumberOfButtons] = {
 }
 
 - (void) accelerationChanged:(WiiAccelerationSensorType) type accX:(unsigned short) accX accY:(unsigned short) accY accZ:(unsigned short) accZ controllerID:(int)cID {
- // do nothing
+ // not implemented
 }
 
 - (void) pressureChanged:(WiiPressureSensorType) type pressureTR:(unsigned short) bPressureTR pressureBR:(unsigned short) bPressureBR 
 			  pressureTL:(unsigned short) bPressureTL pressureBL:(unsigned short) bPressureBL controllerID:(int)cID {
 	
 	float totalWeight = bPressureTR + bPressureBR + bPressureTL + bPressureBL;
-	
 	int x,y;
 	if (totalWeight > 0) {
 		x = (((bPressureTR + bPressureBR) - (bPressureTL + bPressureBL)) / totalWeight) * 127;
@@ -602,9 +598,7 @@ int bindings[maxNumWiimotes][WiiNumberOfButtons] = {
 		x = 0;
 		y = 0;
 	}
-
 	// NSLog(@"%d %d",x,y);
-	
 	static UInt8 properties[3] = {0, 0, 0};
 	properties[0] = hid_XYZ + (type == WiiClassicControllerRightJoyStick);
 	properties[1] = x;
