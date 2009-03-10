@@ -1,0 +1,33 @@
+{
+    IBClasses = (
+        {CLASS = NSMenuItem; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                checkForUpdates = id; 
+                disconnect = id; 
+                donate = id; 
+                openWindow = id; 
+                setIsUsingKBEmu = id; 
+                setIsUsingVirtualHID = id; 
+                stopScanDoConnect = id; 
+                tryAgain = id; 
+            }; 
+            CLASS = "wiimote_manager"; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                HIDEnabledButton = NSButton; 
+                KBEnabledButton = NSButton; 
+                UpdateCheckEnabledButton = NSButton; 
+                aboutWindow = NSWindow; 
+                helpWindow = NSWindow; 
+                keyTable = NSTableView; 
+                mainMenu = NSMenu; 
+                prefHelpText = NSTextField; 
+                prefWindow = NSWindow; 
+                scanMenuTextItem = NSMenuItem; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

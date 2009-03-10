@@ -1,0 +1,6 @@
+2008-05-02: Version 1.1 Release
+
+2008-04-30:
+Changed the probe function to deal with cases where the "osculator" app has claimed the device.  Now we play friendly with it
+
+

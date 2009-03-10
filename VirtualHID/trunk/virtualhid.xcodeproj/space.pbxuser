@@ -1,0 +1,186 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* virtualhid */;
+		addToTargets = (
+			32D94FC30562CBF700B6AF17 /* virtualhid */,
+		);
+		breakpoints = (
+			B2F412530DA2193600CF8C75 /* virtualhid.h:38 */,
+			B2F81D0D0DB3772A004D6F0D /* virtualhid.cpp:208 */,
+			B2F81D170DB37A49004D6F0D /* virtualhid.cpp:208 */,
+		);
+		codeSenseManager = B2BC91C40D9CFC3900A1CAAB /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					203,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 256916611;
+			PBXWorkspaceStateSaveDate = 256916611;
+		};
+		perUserProjectItems = {
+			B225B4940F5028BB00E41896 /* PBXTextBookmark */ = B225B4940F5028BB00E41896 /* PBXTextBookmark */;
+			B2B26CA80F503CBF00DDA56D /* PBXTextBookmark */ = B2B26CA80F503CBF00DDA56D /* PBXTextBookmark */;
+		};
+		sourceControlManager = B2BC91C30D9CFC3900A1CAAB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* virtualhid.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 868}}";
+			sepNavSelRange = "{103, 0}";
+			sepNavVisRange = "{0, 1827}";
+			sepNavWindowFrame = "{{323, 0}, {733, 778}}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* virtualhid.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1152, 5474}}";
+			sepNavSelRange = "{13858, 0}";
+			sepNavVisRange = "{12597, 1864}";
+			sepNavVisRect = "{{0, 2527}, {694, 641}}";
+			sepNavWindowFrame = "{{449, 64}, {868, 807}}";
+		};
+	};
+	32D94FC30562CBF700B6AF17 /* virtualhid */ = {
+		activeExec = 0;
+	};
+	32D94FCF0562CBF700B6AF17 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1044, 812}}";
+			sepNavSelRange = "{695, 0}";
+			sepNavVisRange = "{39, 1643}";
+			sepNavWindowFrame = "{{498, 179}, {1103, 849}}";
+		};
+	};
+	B225B4940F5028BB00E41896 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* virtualhid.cpp */;
+		name = "virtualhid.cpp: 26";
+		rLen = 0;
+		rLoc = 973;
+		rType = 0;
+		vrLen = 2275;
+		vrLoc = 11929;
+	};
+	B250A1850DC852930010C7B2 /* ChangeLog.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {962, 706}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{0, 275}";
+			sepNavWindowFrame = "{{188, -185}, {1021, 778}}";
+		};
+	};
+	B2B26CA80F503CBF00DDA56D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* virtualhid.cpp */;
+		name = "virtualhid.cpp: 354";
+		rLen = 0;
+		rLoc = 13858;
+		rType = 0;
+		vrLen = 1864;
+		vrLoc = 12597;
+	};
+	B2BC91C30D9CFC3900A1CAAB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	B2BC91C40D9CFC3900A1CAAB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B2F412530DA2193600CF8C75 /* virtualhid.h:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1A224C3EFF42367911CA2CB7 /* virtualhid.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = virtualhid;
+		modificationTime = 229266122.939511;
+		state = 1;
+	};
+	B2F81D0D0DB3772A004D6F0D /* virtualhid.cpp:208 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1A224C3FFF42367911CA2CB7 /* virtualhid.cpp */;
+		functionName = "com_veltrop_taylor_driver_virtualhid::probe(IOService *provider, SInt32 *score)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 208;
+		modificationTime = 229865258.293843;
+		state = 1;
+	};
+	B2F81D170DB37A49004D6F0D /* virtualhid.cpp:208 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1A224C3FFF42367911CA2CB7 /* virtualhid.cpp */;
+		functionName = "com_veltrop_taylor_driver_virtualhid::probe(IOService *provider, SInt32 *score)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 208;
+		modificationTime = 229866057.63573;
+		state = 1;
+	};
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIDEmulatorEnabled</key>
+	<true/>
+	<key>KBEmuEnabled</key>
+	<false/>
+	<key>mouseEmuEnabled</key>
+	<false/>
+	<key>UpdateCheckEnabled</key>
+	<true/>
+	<key>rxyzSource</key>
+	<string>Disabled</string>
+	<key>xyzSource</key>
+	<string>D-Pad</string>
+	<key>mouseController</key>
+	<string>Wiimote ①</string>
+	<key>mouseDataSource</key>
+	<string>IR Pointer</string>
+	<key>mouseMovementStyle</key>
+	<string>Direct Mouse Movement</string>
+	<key>HIDsettingsSet</key>
+	<string>Unified Configuration</string>
+	<key>mouseSensitivitySlider</key>
+	<integer>50</integer>
+</dict>
+</plist>

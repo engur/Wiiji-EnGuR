@@ -1,0 +1,321 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = B28B4D680DB2560D005F5A8D /* Wiiji */;
+		activeTarget = B28B4D660DB2560D005F5A8D /* Wiiji */;
+		addToTargets = (
+			B28B4D660DB2560D005F5A8D /* Wiiji */,
+		);
+		breakpoints = (
+			B2B1AC3C0F519B5E00B90CA1 /* WiiMoteController.m:181 */,
+			B25E0DE40F5C356C0046801D /* WiiMoteController.m:357 */,
+			B25E0DEB0F5C35B40046801D /* PrefController.m:610 */,
+		);
+		codeSenseManager = B226F1A00D9A84C8001374F1 /* Code sense */;
+		executables = (
+			B28B4D680DB2560D005F5A8D /* Wiiji */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					193,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					183,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48.1626,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257784162;
+			PBXWorkspaceStateSaveDate = 257784162;
+		};
+		sourceControlManager = B226F19F0D9A84C8001374F1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 664}}";
+			sepNavSelRange = "{57, 0}";
+			sepNavVisRange = "{0, 251}";
+			sepNavWindowFrame = "{{295, 35}, {840, 736}}";
+		};
+	};
+	B226F19F0D9A84C8001374F1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	B226F1A00D9A84C8001374F1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B226F1A40D9A8540001374F1 /* WiiMoteController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 1190}}";
+			sepNavSelRange = "{2350, 0}";
+			sepNavVisRange = "{603, 2441}";
+			sepNavVisRect = "{{0, 0}, {794, 641}}";
+			sepNavWindowFrame = "{{320, 17}, {884, 1009}}";
+		};
+	};
+	B226F1A50D9A8540001374F1 /* WiiMoteController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1488, 12096}}";
+			sepNavSelRange = "{8285, 0}";
+			sepNavVisRange = "{7961, 986}";
+			sepNavVisRect = "{{0, 4733}, {794, 641}}";
+			sepNavWindowFrame = "{{605, 55}, {933, 971}}";
+		};
+	};
+	B22FA0AB0DAC9AF00039AB3D /* com.veltrop.taylor.Wiiji.defaults.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 674}}";
+			sepNavSelRange = "{171, 74}";
+			sepNavVisRange = "{0, 263}";
+			sepNavWindowFrame = "{{19, 245}, {833, 778}}";
+		};
+	};
+	B24C5B9B0DAB16AF00E65D6A /* appicon.icns */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{65, 119}, {842, 862}}";
+		};
+	};
+	B250A18B0DC855120010C7B2 /* ChangeLog.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1026, 706}}";
+			sepNavSelRange = "{326, 0}";
+			sepNavVisRange = "{0, 592}";
+			sepNavWindowFrame = "{{231, 250}, {1021, 778}}";
+		};
+	};
+	B25E0DE40F5C356C0046801D /* WiiMoteController.m:357 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = B226F1A50D9A8540001374F1 /* WiiMoteController.m */;
+		functionName = "-accelerationChanged:accX:accY:accZ:controllerID:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 357;
+		location = Wiiji;
+		modificationTime = 257701563.966249;
+		state = 1;
+	};
+	B25E0DEB0F5C35B40046801D /* PrefController.m:610 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = B2C50EC00DE3EE5C00920375 /* PrefController.m */;
+		functionName = "-getMouseAssignment:controllerID:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 610;
+		location = Wiiji;
+		modificationTime = 257701563.966358;
+		state = 2;
+	};
+	B26B65F80DA90E3700BD58B4 /* wiijoy_icon_12.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{19, 0}, {833, 746}}";
+		};
+	};
+	B27F14F20DCAA76200A885F7 /* WiijiUpdater.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 574}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{0, 305}";
+			sepNavWindowFrame = "{{336, 96}, {937, 646}}";
+		};
+	};
+	B27F14F30DCAA76200A885F7 /* WiijiUpdater.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 1008}}";
+			sepNavSelRange = "{734, 0}";
+			sepNavVisRange = "{316, 1891}";
+			sepNavWindowFrame = "{{21, 33}, {937, 646}}";
+		};
+	};
+	B28B4D660DB2560D005F5A8D /* Wiiji */ = {
+		activeExec = 0;
+		executables = (
+			B28B4D680DB2560D005F5A8D /* Wiiji */,
+		);
+	};
+	B28B4D680DB2560D005F5A8D /* Wiiji */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Wiiji;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B28B4D690DB2560D005F5A8D /* Wiiji-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 651}}";
+			sepNavSelRange = "{927, 0}";
+			sepNavVisRange = "{0, 945}";
+			sepNavVisRect = "{{0, 0}, {1064, 641}}";
+			sepNavWindowFrame = "{{393, 32}, {833, 746}}";
+		};
+	};
+	B2B1AC3C0F519B5E00B90CA1 /* WiiMoteController.m:181 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = B226F1A50D9A8540001374F1 /* WiiMoteController.m */;
+		functionName = "-buttonChanged:isPressed:controllerID:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 181;
+		location = Wiiji;
+		modificationTime = 257701563.966165;
+		state = 1;
+	};
+	B2C50EBF0DE3EE5C00920375 /* PrefController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 1400}}";
+			sepNavSelRange = "{3347, 21}";
+			sepNavVisRange = "{1129, 2449}";
+			sepNavWindowFrame = "{{532, -50}, {862, 978}}";
+		};
+	};
+	B2C50EC00DE3EE5C00920375 /* PrefController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {889, 11998}}";
+			sepNavSelRange = "{20936, 0}";
+			sepNavVisRange = "{20539, 1375}";
+			sepNavWindowFrame = "{{293, 16}, {948, 980}}";
+		};
+	};
+	B2C50EE70DE3F75D00920375 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 658}}";
+			sepNavSelRange = "{602, 5}";
+			sepNavVisRange = "{79, 994}";
+			sepNavWindowFrame = "{{70, 35}, {937, 646}}";
+		};
+	};
+	B2C50EE80DE3F75D00920375 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 2786}}";
+			sepNavSelRange = "{2211, 0}";
+			sepNavVisRange = "{2053, 1035}";
+			sepNavWindowFrame = "{{52, 20}, {937, 646}}";
+		};
+	};
+	B2E109770DA9FDA9003E963D /* wiijoy_icon_0.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 207}, {750, 534}}";
+		};
+	};
+}

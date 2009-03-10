@@ -1,0 +1,18 @@
+2009-02-20:
+Advanced options implemented.
+
+2009-01-31:
+Balance Board integration from Christoph Dwertmann
+
+2008-07-28:
+French localization from Pierre Rudloff
+
+2008-05-21:
+GUI for new advanced options, motion, ir, mouse, etc.
+Major Architechture redesign:  Separate objects for preference window, app controller, app updater, and wii remote controller.
+
+2008-05-02: Version 1.2 Release
+Update support added.
+
+2008-04-28: 
+Fixed a bug where setting a keyboard mapping in the prefs window would jam the software into "pref setting mode" preventing the wiimote input from going into the system.
