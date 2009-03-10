@@ -129,8 +129,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 230774879;
-			PBXWorkspaceStateSaveDate = 230774879;
+			PBXPerProjectTemplateStateSaveDate = 256824734;
+			PBXWorkspaceStateSaveDate = 256824734;
 		};
 		sourceControlManager = B226F19F0D9A84C8001374F1 /* Source Control */;
 		userBuildSettings = {
@@ -191,20 +191,20 @@
 	};
 	B226F1A40D9A8540001374F1 /* wiimote_manager.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1003, 1372}}";
-			sepNavSelRange = "{542, 12}";
-			sepNavVisRange = "{0, 2309}";
+			sepNavIntBoundsRect = "{{0, 0}, {788, 1554}}";
+			sepNavSelRange = "{1230, 0}";
+			sepNavVisRange = "{231, 1535}";
 			sepNavVisRect = "{{0, 0}, {794, 641}}";
 			sepNavWindowFrame = "{{414, 0}, {833, 746}}";
 		};
 	};
 	B226F1A50D9A8540001374F1 /* wiimote_manager.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2126, 11508}}";
-			sepNavSelRange = "{23386, 0}";
-			sepNavVisRange = "{22900, 1631}";
+			sepNavIntBoundsRect = "{{0, 0}, {2126, 12360}}";
+			sepNavSelRange = "{19414, 0}";
+			sepNavVisRange = "{23101, 1682}";
 			sepNavVisRect = "{{0, 4733}, {794, 641}}";
-			sepNavWindowFrame = "{{251, 0}, {1062, 1028}}";
+			sepNavWindowFrame = "{{143, 0}, {1062, 778}}";
 		};
 	};
 	B22FA0AB0DAC9AF00039AB3D /* com.veltrop.taylor.Wiiji.defaults.plist */ = {
@@ -234,10 +234,10 @@
 	};
 	B23A19DA0DB77E5400E28F9C /* wiimote_types.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {676, 871}}";
-			sepNavSelRange = "{136, 0}";
-			sepNavVisRange = "{0, 1193}";
-			sepNavWindowFrame = "{{694, 85}, {735, 943}}";
+			sepNavIntBoundsRect = "{{0, 0}, {676, 798}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{135, 1123}";
+			sepNavWindowFrame = "{{74, 0}, {735, 778}}";
 		};
 	};
 	B24A5B4F0DA7D32C002DEAC4 /* wiimote_manager.m:782 */ = {

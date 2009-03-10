@@ -545,7 +545,7 @@ int bindings[maxNumWiimotes][WiiNumberOfButtons] = {
 		if (_isVirtualHIDOpen) {
 			if (type >= WiiClassicControllerYButton) // lets overlap the classic conroller with the wiimote/nunchuck buttons
 				type -= WiiClassicControllerYButton;
-			// the balance board button is mapped to the first joystick button
+			// the balance board button is mapped to the first joystick buttond
 			if ([_wiimote[cID] expansionPortType] == WiiBalanceBoard)
 				type = WiiRemoteOneButton;
 			properties[0] = type;

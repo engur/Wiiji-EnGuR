@@ -58,8 +58,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 230774892;
-			PBXWorkspaceStateSaveDate = 230774892;
+			PBXPerProjectTemplateStateSaveDate = 255080258;
+			PBXWorkspaceStateSaveDate = 255080258;
 		};
 		sourceControlManager = B20EF79D0D9925B600B0300A /* Source Control */;
 		userBuildSettings = {
@@ -91,18 +91,18 @@
 	};
 	5351D50B0B2D34DA00F86B96 /* WiiRemote.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1382, 2632}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1382, 2926}}";
 			sepNavSelRange = "{4523, 0}";
-			sepNavVisRange = "{3192, 2186}";
-			sepNavWindowFrame = "{{579, 38}, {958, 746}}";
+			sepNavVisRange = "{3974, 2212}";
+			sepNavWindowFrame = "{{348, 20}, {958, 746}}";
 		};
 	};
 	5351D50C0B2D34DA00F86B96 /* WiiRemote.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1376, 21266}}";
-			sepNavSelRange = "{6779, 49}";
-			sepNavVisRange = "{6681, 274}";
-			sepNavWindowFrame = "{{579, 38}, {958, 746}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1376, 23534}}";
+			sepNavSelRange = "{7215, 0}";
+			sepNavVisRange = "{6962, 406}";
+			sepNavWindowFrame = "{{295, 32}, {958, 746}}";
 		};
 	};
 	5351D50D0B2D34DA00F86B96 /* WiiRemoteDiscovery.h */ = {
@@ -170,14 +170,6 @@
 		location = WiiRemote;
 		modificationTime = 230697886.277894;
 		state = 1;
-	};
-	B23A19E40DB77F3D00E28F9C /* wiimote_types.h */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {676, 871}}";
-			sepNavSelRange = "{347, 0}";
-			sepNavVisRange = "{0, 1258}";
-			sepNavWindowFrame = "{{682, 20}, {735, 943}}";
-		};
 	};
 	B259A2100DBD8977003ECE51 /* WiiRemoteDiscovery.m:129 */ = {
 		isa = PBXFileBreakpoint;
